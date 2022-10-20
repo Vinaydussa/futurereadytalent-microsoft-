@@ -82,7 +82,7 @@ model.summary()
 
 
 
-https://github.com/nikhiljanumpally/microsoftinternproject/blob/main/screenrecording.mkv
+ttps://github.com/Vinaydussa/futurereadytalent-microsoft-/blob/main/screenrecording.mkv
 ## Screenshots
 
 ### Image 1:
