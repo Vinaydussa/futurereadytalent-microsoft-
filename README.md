@@ -82,7 +82,8 @@ model.summary()
 
 
 
-ttps://github.com/Vinaydussa/futurereadytalent-microsoft-/blob/main/screenrecording.mkv
+https://github.com/Vinaydussa/futurereadytalent-microsoft-/blob/main/screenrecording.mkv
+
 ## Screenshots
 
 ### Image 1:
